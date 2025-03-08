@@ -1,6 +1,6 @@
 # X Video Downloader
 
-A Tkinter-based GUI application that downloads videos from X (Twitter) by fetching the highest quality version. All downloader functionality is integrated into a single Python script.
+A Tkinter-based GUI application that downloads videos from X (Twitter) by fetching the highest quality version.
 
 ## Features
 
